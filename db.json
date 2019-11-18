@@ -61,7 +61,7 @@
             "type" : "file"
         },
         {
-            "path" : "/Users/Shared/Adobe*",
+            "path" : "/Library/PrivilegedHelperTools/com.adobe*",
             "type" : "file"
         }
     ]
